@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicESP", "ConsoleApp1\BasicESP.csproj", "{598C8675-A410-4AA0-A8CF-38649D7CE12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Debug|x64.ActiveCfg = Debug|x64
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Debug|x64.Build.0 = Debug|x64
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Release|x64.ActiveCfg = Release|x64
+		{598C8675-A410-4AA0-A8CF-38649D7CE12E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE57773-7BA9-412A-9F1A-9D4A38C74486}
+	EndGlobalSection
+EndGlobal
